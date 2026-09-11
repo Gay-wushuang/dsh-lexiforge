@@ -1,0 +1,7 @@
+name: 简单示例语言包
+version: 1.0.0
+author: ChatGPT Demo
+mode: A
+prompt_template: |
+ 请将下面的内容改写得更加简洁、清晰、自然，只输出改写后的结果：
+ {{text}}

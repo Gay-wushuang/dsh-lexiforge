@@ -1,0 +1,3 @@
+最小 A 模式 LangPack 示例。
+使用 prompt_template 调用一次独立 LLM 请求，对原回复进行改写。
+{{text}} 会被替换为待处理文本。

@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-11T12-17-37-821Z-after-d587794529b2",
+  "repoRoot": "E:\\ERE\\Documents\\Work\\dsh-lexiforge",
+  "createdAt": "2026-09-11T12:17:37.821Z",
+  "phase": "after",
+  "label": "apply_patch",
+  "files": [
+    {
+      "relativePath": "examples/demo-a-simple/manifest.yaml",
+      "exists": true,
+      "size": 203,
+      "sha256": "9edc4beae7dd453a698f87ddd37c3033fcafe2a6fccac3f09ce2eed6c057b522",
+      "snapshotRef": "9edc4beae7dd453a698f87ddd37c3033fcafe2a6fccac3f09ce2eed6c057b522-c6ca07102a8d"
+    },
+    {
+      "relativePath": "examples/demo-a-simple/说明.txt",
+      "exists": true,
+      "size": 164,
+      "sha256": "2cf828beda9332d187739338a6ff81a7215ff5828ddaa4b741259ff1ac9c8a43",
+      "snapshotRef": "2cf828beda9332d187739338a6ff81a7215ff5828ddaa4b741259ff1ac9c8a43-9bece418404a"
+    }
+  ]
+}

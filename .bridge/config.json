@@ -1,0 +1,7 @@
+{
+  "provider": "chatgpt",
+  "mcpPort": 8765,
+  "contextLimit": 128000,
+  "permissionMode": "auto",
+  "repoPath": "E:\\ERE\\Documents\\Work\\dsh-lexiforge"
+}
